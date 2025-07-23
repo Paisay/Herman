@@ -1,0 +1,78 @@
+{
+  "short_name": "KS Store",
+  "name": "KS Store",
+  "description": "KS Store - Distributor pulsa operator H2H termurah. Provider PPOB terbaik dan terlengkap. Pusat server panel auto follower sosial media dan subscribe youtube tercepat. Jadilah member, agen atau reseller jasa sosial media, toko online, hingga PPOB online bersama kami",
+  "icons": [
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia168.png",
+      "sizes": "168x168",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaiseluler.my.id/assets/images/kincaimedia/kincaimedia690.png",
+      "sizes": "690x690",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/",
+  "start_url": "https://kincaiseluler.my.id/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#CC3333"
+}
