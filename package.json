@@ -1,0 +1,26 @@
+{
+  "name": "bek dorrr bai culya wehehe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@^8.2.0",
+    "axios": "^1.10.0",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "pino": "^8.14.1",
+    "sharp": "^0.32.6",
+    "telegraf": "^4.16.3"
+  }
+}
